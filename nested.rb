@@ -127,4 +127,4 @@ def adding_to_dennis
 end
 
 
-dennis_ritchies_language
+dennis_ritchies_language == "C"
